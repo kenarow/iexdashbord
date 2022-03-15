@@ -1,1 +1,0 @@
-IEX_API_TOKEN =
